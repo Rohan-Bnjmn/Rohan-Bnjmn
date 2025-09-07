@@ -39,7 +39,7 @@ I use LinkedIn to share data-driven case studies and visual storytelling project
 ---
 
 ## 🤝 Connect
-💬 Let’s talk about data analytics, urban recovery, or BI strategy.  
+💬 Let’s talk about data analytics or BI strategy.  
 📫 Reach me at **rohanbenjamin.jobs@outlook.com**  
 
 ---
