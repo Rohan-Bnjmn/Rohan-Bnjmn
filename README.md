@@ -25,10 +25,44 @@
 ---
 
 ## ⚙️ Tools & Skills
-- **Programming & Data**: Python (pandas, NumPy, scikit-learn), SQL (Postgres, MySQL), R  
-- **Visualization & BI**: Power BI, Tableau, Looker, Matplotlib, Plotly, Folium  
-- **Data Engineering**: dbt, Snowflake, Airflow  
-- **Other**: Git, Excel (Power Query, VBA), Salesforce  
+
+- **Programming & Data**:  
+  Python (pandas, NumPy, scikit-learn, statsmodels, SciPy, NLTK, spaCy, TensorFlow, Keras, PyTorch),  
+  SQL (Postgres, MySQL, SQLite, Snowflake, BigQuery, SQL Server),  
+  R (dplyr, ggplot2, caret, tidyverse),  
+  Bash/Shell scripting  
+
+- **Visualization & Business Intelligence**:  
+  Power BI, Tableau, Looker, Qlik Sense, Matplotlib, Seaborn, Plotly, Folium, Altair  
+
+- **Data Engineering & ETL**:  
+  dbt, Apache Airflow, Luigi, Spark (PySpark), Hadoop (HDFS, Hive), Kafka, Databricks, AWS Glue  
+
+- **Databases & Warehousing**:  
+  MySQL, PostgreSQL, SQL Server, Oracle DB, MongoDB, Snowflake, Google BigQuery, Amazon Redshift  
+
+- **Cloud Platforms**:  
+  AWS (EC2, S3, RDS, Athena, Lambda, SageMaker),  
+  GCP (BigQuery, Dataflow, Looker Studio),  
+  Azure (Data Factory, Synapse, ML Studio)  
+
+- **Data Collection & Scraping**:  
+  Selenium, BeautifulSoup, Scrapy, APIs (REST/GraphQL), Webhooks  
+
+- **Geospatial Analytics**:  
+  GeoPandas, Shapely, QGIS, ArcGIS, Kepler.gl  
+
+- **Machine Learning & AI**:  
+  Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost, LightGBM, CatBoost, Hugging Face Transformers  
+
+- **Statistics & Experimentation**:  
+  R (stats, glm, time series), Python (statsmodels, scipy), A/B testing frameworks, Bayesian modeling  
+
+- **Workflow, Version Control & Collaboration**:  
+  Git/GitHub, GitLab, Jupyter Notebook, JupyterLab, Google Colab, VS Code, PyCharm  
+
+- **Productivity & Other Tools**:  
+  Excel (Power Query, VBA, Pivot Tables), Salesforce, Jira, Confluence, Slack, Trello  
 
 ---
 
