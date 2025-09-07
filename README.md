@@ -10,7 +10,7 @@
 ## 🧑‍💻 Featured Projects
 
 - 📊 **San Francisco Mobility Recovery (2014–2024)**  
-  *Urban analytics case study combining parking meter revenue, Muni ridership, and BART station exits to measure SF’s post-pandemic recovery.*  
+  Urban analytics case study combining parking meter revenue, Muni ridership, and BART station exits to measure SF’s post-pandemic recovery.*  
   [View Notebook](https://github.com/Rohan-Bnjmn/sf-mobility-recovery-2018-to-2024)
 
 - 🗄️ Relational Database in MySQL  
