@@ -13,9 +13,9 @@
   *Urban analytics case study combining parking meter revenue, Muni ridership, and BART station exits to measure SF’s post-pandemic recovery.*  
   [View Notebook](https://github.com/Rohan-Bnjmn/sf-mobility-recovery-2018-to-2024)
 
-- 📈 **Retail Analytics Dashboard**  
-  *Built an interactive Power BI dashboard for sales, promotions, and inventory trends across multiple regions.*  
-  [View Repository](#)
+- 📄 Glassdoor Job Scraper  
+  Web scraper using **Python + Selenium** to collect job and company information from Glassdoor across multiple pages, outputting clean CSV datasets for analysis.  
+  [View Repository](https://github.com/Rohan-Bnjmn/Glassdoor-Scraper-Final-main)
 
 - 🔍 **Customer Segmentation with Python**  
   *Applied clustering (K-Means, PCA) to identify customer personas for targeted marketing.*  
