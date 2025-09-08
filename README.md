@@ -13,11 +13,11 @@
   Urban analytics case study combining parking meter revenue, Muni ridership, and BART station exits to measure SF’s post-pandemic recovery.*  
   [View Notebook](https://github.com/Rohan-Bnjmn/sf-mobility-recovery-2018-to-2024)
 
-- 🗄️ Relational Database in MySQL  
+- 🗄️ **Relational Database Design in MySQL**  
   Designed and implemented a full company database from scratch for a fictional AI/Fintech firm (*Vanguard Industries*). Applied advanced SQL concepts including **3NF normalization, constraints, triggers, and       analytical queries** to enforce business rules and generate insights.  
   [View Repository](https://github.com/Rohan-Bnjmn/relational-database-design-mysql)
 
-- 📄 Glassdoor Job Scraper  
+- 📄 **Glassdoor Job Scraper**  
   Web scraper using **Python + Selenium** to collect job and company information from Glassdoor across multiple pages, outputting clean CSV datasets for analysis.  
   [View Repository](https://github.com/Rohan-Bnjmn/Glassdoor-Scraper-Final-main)
 
