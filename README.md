@@ -7,17 +7,24 @@
 
 ---
 
-## 🧑‍💻 Featured Projects
+## Featured Projects
 
-- 📊 **San Francisco Mobility Recovery (2014–2024)**  
+
+- **ChatGPT User Behavior Analysis**  
+  Behavioral exploration of 37K+ real ChatGPT conversations from the **WildChat-1M** dataset.  
+  Analyzed **user intent, sentiment, and engagement patterns** across GPT-3.5 and GPT-4 to uncover what makes human-AI dialogue engaging.  
+  Includes **EDA, readability scoring, sentiment tracking, intent classification, and clustering** of user queries into creative, technical, and analytical themes.  
+  [View Repository](https://github.com/Rohan-Bnjmn/chatgpt-user-behavior-analysis)
+
+-  **San Francisco Mobility Recovery (2014–2024)**  
   Urban analytics case study combining parking meter revenue, Muni ridership, and BART station exits to measure SF’s post-pandemic recovery.*  
   [View Notebook](https://github.com/Rohan-Bnjmn/sf-mobility-recovery-2018-to-2024)
 
-- 🗄️ **Relational Database Design in MySQL**  
+- **Relational Database Design in MySQL**  
   Designed and implemented a full company database from scratch for a fictional AI/Fintech firm (*Vanguard Industries*). Applied advanced SQL concepts including **3NF normalization, constraints, triggers, and       analytical queries** to enforce business rules and generate insights.  
   [View Repository](https://github.com/Rohan-Bnjmn/relational-database-design-mysql)
 
-- 📄 **Glassdoor Job Scraper**  
+-  **Glassdoor Job Scraper**  
   Web scraper using **Python + Selenium** to collect job and company information from Glassdoor across multiple pages, outputting clean CSV datasets for analysis.  
   [View Repository](https://github.com/Rohan-Bnjmn/Glassdoor-Scraper-Final-main)
 
